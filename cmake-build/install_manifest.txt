@@ -1,0 +1,11 @@
+C:/Users/neela/Documents/darknet-master/darknet.lib
+C:/Users/neela/Documents/darknet-master/darknet.dll
+C:/Users/neela/Documents/darknet-master/include/darknet/darknet.h
+C:/Users/neela/Documents/darknet-master/include/darknet/yolo_v2_class.hpp
+C:/Users/neela/Documents/darknet-master/uselib.exe
+C:/Users/neela/Documents/darknet-master/darknet.exe
+C:/Users/neela/Documents/darknet-master/uselib_track.exe
+C:/Users/neela/Documents/darknet-master/share/darknet/DarknetTargets.cmake
+C:/Users/neela/Documents/darknet-master/share/darknet/DarknetTargets-release.cmake
+C:/Users/neela/Documents/darknet-master/share/darknet/DarknetConfig.cmake
+C:/Users/neela/Documents/darknet-master/share/darknet/DarknetConfigVersion.cmake

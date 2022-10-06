@@ -1,0 +1,7 @@
+C:/Users/neela/Documents/darknet-master/cmake-build/CMakeFiles/dark.dir
+C:/Users/neela/Documents/darknet-master/cmake-build/CMakeFiles/uselib_track.dir
+C:/Users/neela/Documents/darknet-master/cmake-build/CMakeFiles/uselib.dir
+C:/Users/neela/Documents/darknet-master/cmake-build/CMakeFiles/darknet.dir
+C:/Users/neela/Documents/darknet-master/cmake-build/CMakeFiles/INSTALL.dir
+C:/Users/neela/Documents/darknet-master/cmake-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/neela/Documents/darknet-master/cmake-build/CMakeFiles/ZERO_CHECK.dir
